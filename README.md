@@ -1,1 +1,1 @@
-# java-calculator
+# javacalculator
